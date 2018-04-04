@@ -1,0 +1,2 @@
+# dotnetcore
+Szybkie przypomnienie C#
